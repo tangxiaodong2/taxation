@@ -9,7 +9,7 @@ import './style/MainStyle.css'
 // import 'swiper/css/swiper.css'
 
 Vue.config.productionTip = false
-
+// test 11111111
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
